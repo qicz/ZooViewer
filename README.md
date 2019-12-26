@@ -5,7 +5,7 @@ ZooKeeper configuration viewer
 
 
 
-## Running
+## Running with script
 
 using startup-script, support windows and unix-like
 
@@ -29,6 +29,10 @@ using `sh unix-linux-mac-startup.sh`
 ├── unix-linux-mac-startup.sh
 └── windows-startup.bat
 ```
+
+### Running Direct
+
+open the `zooview.jar`, the jar must has `execute` right. and you cannot using logging.
 
 ### TODO
 
