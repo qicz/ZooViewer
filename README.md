@@ -11,11 +11,11 @@ using startup-script, support windows and unix-like
 
 #### windows 
 
-using `windows-startup.bat`
+using `windows-startup.bat`, double click.
 
 ### unix-like
 
-using `unix-linux-mac-startup.sh`
+using `sh unix-linux-mac-startup.sh`
 
 ### runner tree
 
@@ -33,4 +33,3 @@ using `unix-linux-mac-startup.sh`
 ### TODO
 
 testing  new view zookeeper.
-
